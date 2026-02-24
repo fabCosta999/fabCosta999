@@ -28,6 +28,6 @@ Here are some of my university projects:
 ## 📫 Contact
 
 - Email: s337191@studenti.polito.it  
-- [LinkedIn](www.linkedin.com/in/fabrizio-costa999/)
+- [LinkedIn](https://www.linkedin.com/in/fabrizio-costa999/)
 
 ---
