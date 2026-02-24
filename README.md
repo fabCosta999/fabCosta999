@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Fabrizio Costa
 
-<!--
-**fabCosta999/fabCosta999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in **Computer Engineering** at the **Politecnico di Torino**  
+🤖 Specializing in **Artificial Intelligence & Data Analytics**  
+🔬 Research in **Operations Research**, part of the **Honors Early Research Program**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+Here are some of my university projects:
+
+- **[remoteFileSystem](https://github.com/fabCosta999/remoteFileSystem)** – System programming course project
+- **[GOLEM](https://github.com/fabCosta999/golem)** – Robot learning course project
+- **[Enhancing 6D Pose Estimation](https://github.com/fabCosta999/enhancing-6d-pose-estimation)** – Advanced Machine Learning course project  
+- **[Pacman](https://github.com/fabCosta999/pacman)** – Computer Architecture course project  
+- **[Gioco-Sfortuna](https://github.com/fabCosta999/gioco-sfortuna)** – Web app course project  
+
+---
+
+## 💡 Skills & Technologies
+
+- **Languages:** Python, C, C++, Rust, JavaScript
+- **Areas:** Operations Research, Machine Learning  
+
+---
+
+## 📫 Contact
+
+- Email: s337191@studenti.polito.it  
+- [LinkedIn](www.linkedin.com/in/fabrizio-costa999/)
+
+---
