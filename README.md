@@ -11,8 +11,8 @@
 Here are some of my university projects:
 
 - **[remoteFileSystem](https://github.com/fabCosta999/remoteFileSystem)** – System programming course project
-- **[GOLEM](https://github.com/fabCosta999/golem)** – Robot learning course project
-- **[Enhancing 6D Pose Estimation](https://github.com/fabCosta999/enhancing-6d-pose-estimation)** – Advanced Machine Learning course project  
+- **[golem](https://github.com/fabCosta999/golem)** – Robot learning course project
+- **[Enhancing 6D Pose Estimation](https://github.com/fabCosta999/6d-pose-estimation)** – Advanced Machine Learning course project  
 - **[Pacman](https://github.com/fabCosta999/pacman)** – Computer Architecture course project  
 - **[Gioco-Sfortuna](https://github.com/fabCosta999/gioco-sfortuna)** – Web app course project  
 
