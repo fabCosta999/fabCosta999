@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fabrizio Costa
 
-🎓 Master's student in **Computer Engineering** at the **Politecnico di Torino**  
+🎓 Master's student in **Computer Engineering** at **Politecnico di Torino**  
 🤖 Specializing in **Artificial Intelligence & Data Analytics**  
 🔬 Research in **Operations Research**, part of the **Honors Early Research Program**  
 
